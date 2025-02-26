@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Andrea!</h1>
-<h3 align="center">A passionate frontend developer from Caracas, Venezuela, living in Buenos Aires, Argentina.</h3>
+<h3 align="center">A passionate frontend developer living in Buenos Aires, Argentina.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreaeba&label=Profile%20views&color=0e75b6&style=flat" alt="andreaeba" /> </p>
 
-- 🌱 I’m currently learning **Bootstrap and React.**
+- 🧠 I like programming with **JavaScript, React and Bootstrap**
+
+- 🌱 I’m currently learning **Java and Spring Boot.**
 
 - 👨‍💻 All of my projects are available at [https://andreaeba.github.io/portfolio-andrea-bermudez/](https://andreaeba.github.io/portfolio-andrea-bermudez/)
 
