@@ -7,7 +7,9 @@
 
 - 🌱 I’m currently learning **Java and Spring Boot.**
 
-- 👨‍💻 All of my projects are available at [https://andreaeba.github.io/portfolio-andrea-bermudez/](https://andreaeba.github.io/portfolio-andrea-bermudez/)
+- 🎨 I also know a lot about design, digital marketing and I'm a UX/UI enthusiast.
+
+- 👨‍💻 All of my programming projects are available at [https://andreaeba.github.io/portfolio-andrea-bermudez/](https://andreaeba.github.io/portfolio-andrea-bermudez/)
 
 - 📫 How to reach me **andreabusb@gmail.com**
 
